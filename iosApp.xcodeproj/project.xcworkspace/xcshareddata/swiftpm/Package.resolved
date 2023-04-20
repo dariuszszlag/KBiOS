@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "kbmultiplatform",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/dariuszszlag/KBMultiplatform.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "da264f698e06745ea73ae67b9c50e9a2119b50aa"
+      }
+    }
+  ],
+  "version" : 2
+}
